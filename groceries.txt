@@ -5,3 +5,7 @@ apples
 oranges
 cookies
 beer
+
+coke
+vodka
+doritos
