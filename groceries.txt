@@ -7,5 +7,4 @@ cookies
 beer
 cereal
 doritos
-
 raw beans
