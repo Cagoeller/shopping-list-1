@@ -9,3 +9,4 @@ beer
 coke
 vodka
 doritos
+tequila
